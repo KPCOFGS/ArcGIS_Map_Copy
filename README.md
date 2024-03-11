@@ -33,4 +33,4 @@ Do the same for the distination account as well.
 \
 \
 To get the map ID, first log into your account. Find and click ```Content``` tab. Then click on the map you want to copy, and then click ```view details```.\
-On the right hand side, under ```Details``` section, There is ```ID```. If you do not see ```Details``` section, you may want to scroll down a bit.
+On the right hand side, under ```Details``` section, There is the ```ID```. If you do not see ```Details``` section, you may want to scroll down a bit.
