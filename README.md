@@ -7,7 +7,7 @@
 Before you begin, ensure you have met the following requirements:
 
 * You have a **Linux Mint 21.3** machine. It may work on other OS versions, but it was only tested on Linux Mint 21.3.
-* You have installed the following packages:
+* Make sure the following packages are installed:
     * `python3`
     * `python3-pip`
     * `libkrb5-dev`
