@@ -22,6 +22,10 @@ Then, install the required Python package
 ```bash
 python3 -m pip install arcgis
 ```
+
+You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
+
+
 In the script, replace  ```SOURCE_ACCOUNT``` and ```SOURCE_PASSWORD``` to your source account and password
 Do the same for the distination account as well.
 
