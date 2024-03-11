@@ -23,12 +23,11 @@ Then, install the required Python package
 python3 -m pip install arcgis
 ```
 \
-You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```\
+You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
 \
 \
 In the script, replace  ```SOURCE_ACCOUNT``` and ```SOURCE_PASSWORD``` to your source account and password\
-\
-Do the same for the distination account as well.\
+Do the same for the distination account as well.
 \
 \
 To get the map ID, first log into your account. Find and click ```Content``` tab. Then click on the map you want to copy, and then click ```view details```. On the right hand side, under ```Details``` section, There is ```ID```. If you do not see ```Details``` section, you may want to scroll down a bit.
