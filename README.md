@@ -9,14 +9,14 @@ Before you begin, ensure you have met the following requirements:
     * `python3` version ranging from 3.9.x to 3.11.x
     * `python3-pip`
     * `libkrb5-dev`
-You can install them using the following command:
-```bash
-sudo apt-get install python3 python3-pip libkrb5-dev
-```
-Then, install the required Python package
-```bash
-python3 -m pip install arcgis
-```
+    * You can install them using the following command:
+    ```bash
+    sudo apt-get install python3 python3-pip libkrb5-dev
+    ```
+    * Then, install the required Python package
+    ```bash
+    python3 -m pip install arcgis
+    ```
 
 \
 You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
