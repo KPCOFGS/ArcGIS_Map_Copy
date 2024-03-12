@@ -1,6 +1,6 @@
 # ARCGIS_Map_Copy
 
-**Please note: This project has only been tested on Linux Mint 21.3.**
+**Please note: This project has only been tested on Linux Mint 21.3 and Windows 11.**
 
 ## Prerequisites
 
