@@ -4,7 +4,7 @@ from arcgis.gis import GIS
 src_gis = GIS("https://www.arcgis.com", "SOURCE_ACCOUNT", "SOURCE_PASSWORD")
 
 # Destination GIS, URL stays the same
-dest_gis = GIS("https://www.arcgis.com", "DISTINATION_ACCOUNT", "DISTINATION_PASSWORD")
+dest_gis = GIS("https://www.arcgis.com", "DESTINATION_ACCOUNT", "DESTINATION_PASSWORD")
 
 # ID of the map you want to copy
 map_id = "MAP_ID"
