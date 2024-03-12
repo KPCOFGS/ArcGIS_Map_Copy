@@ -17,6 +17,7 @@ Then, install the required Python package
 ```bash
 python3 -m pip install arcgis
 ```
+* On **Windows 11** machine, make sure you have `python` installed. You can download it in the `Microsoft Store`.
 \
 You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
 \
