@@ -1,9 +1,6 @@
 # ARCGIS_Map_Copy
-
 **Please note: This project has only been tested on Linux Mint 21.3 and Windows 11.**
-
 ## Prerequisites
-
 Before you begin, ensure you have met the following requirements:
 * On **Linux 21.3** or similar distros, make sure the following packages are installed:
     * `python3`
@@ -17,7 +14,8 @@ Then, install the required Python package
 ```bash
 python3 -m pip install arcgis
 ```
-* On **Windows 11** machine, make sure you have `python` installed. You can download it in the `Microsoft Store`.
+* On **Windows 11** machine, make sure you have `python` installed. You can download it in the `Microsoft Store`.\
+\
 \
 You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
 \
