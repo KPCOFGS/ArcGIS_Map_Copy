@@ -3,7 +3,7 @@
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 * On **Linux 21.3** or similar distros, make sure the following packages are installed:
-    * A `python3` version 3.9.x to 3.11.x
+    * `python3` version ranging from 3.9.x to 3.11.x
     * `python3-pip`
     * `libkrb5-dev`
 You can install them using the following command:
