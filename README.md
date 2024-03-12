@@ -28,7 +28,7 @@ You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Co
 \
 \
 In the script, replace  ```SOURCE_ACCOUNT``` and ```SOURCE_PASSWORD``` to your source account and password\
-Do the same for the distination account as well.
+Do the same for the ```DESTINATION_ACCOUNT``` and ```DESTINATION_PASSWORD``` as well.
 \
 \
 \
