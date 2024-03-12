@@ -1,4 +1,4 @@
-# ARC_GIS_Map_Copy
+# ARCGIS_Map_Copy
 
 **Please note: This project has only been tested on Linux Mint 21.3.**
 
