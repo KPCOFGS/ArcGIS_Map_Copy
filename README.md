@@ -16,7 +16,7 @@ python3 -m pip install arcgis
 ```
 * On **Windows 11** machine, make sure you have `python` version ranging from 3.9.x to 3.11.x installed. You can download it in the `Microsoft Store`.
    * Open `Windows Powershell` and type `pip install arcgis`
-
+   * Make sure `python` is in PATH
 \
 You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
 ## Usage
