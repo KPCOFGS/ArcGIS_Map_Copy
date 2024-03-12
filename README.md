@@ -16,11 +16,7 @@ python3 -m pip install arcgis
 ```
 * On **Windows 11** machine, make sure you have `python` version ranging from 3.9.x to 3.11.x installed. You can download it in the `Microsoft Store`.\
    * Open `Windows Powershell` and type `pip install arcgis`
-\
-\
 You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
-\
-\
 ## Usage
 Find the script you just cloned. Open the script and replace  ```SOURCE_ACCOUNT``` and ```SOURCE_PASSWORD``` to your source account and password\
 Do the same for the ```DESTINATION_ACCOUNT``` and ```DESTINATION_PASSWORD``` as well.
