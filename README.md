@@ -6,7 +6,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-* You have a **Linux Mint 21.3** machine. It may work on other OS versions, but it was only tested on Linux Mint 21.3.
+* A **Linux Mint 21.3** machine. It may work on other distros or Mint versions, but it was only tested on Linux Mint 21.3.
 * Make sure the following packages are installed:
     * `python3`
     * `python3-pip`
