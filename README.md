@@ -5,8 +5,7 @@
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-* A **Linux Mint 21.3** machine. It may work on other distros or Mint versions, but it was only tested on Linux Mint 21.3.
-* Make sure the following packages are installed:
+* On **Linux 21.3** or similar distros, make sure the following packages are installed:
     * `python3`
     * `python3-pip`
     * `libkrb5-dev`
