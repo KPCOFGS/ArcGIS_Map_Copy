@@ -1,13 +1,24 @@
-from arcgis.gis import GIS
-
+#from arcgis.gis import GIS
+print("Please enter the source username")
+src_user = input("> ")
+print("Please enter the source password")
+src_pass = input("> ")
+print()
+print("Please enter the destination username")
+dest_user = input("> ")
+print("Please enter the destination pasword")
+dest_pass = input("> ")
+print()
+print("Please enter the map ID")
+mapID = input("> ")
 # Source GIS, URL stays the same
-src_gis = GIS("https://www.arcgis.com", "SOURCE_ACCOUNT", "SOURCE_PASSWORD")
+src_gis = GIS("https://www.arcgis.com", src_user, src_pass)
 
 # Destination GIS, URL stays the same
-dest_gis = GIS("https://www.arcgis.com", "DESTINATION_ACCOUNT", "DESTINATION_PASSWORD")
+dest_gis = GIS("https://www.arcgis.com", dest_user, dest_pass)
 
 # ID of the map you want to copy
-map_id = "MAP_ID"
+map_id = mapID
 
 # Search for the map in the source GIS
 src_item = src_gis.content.get(map_id)
