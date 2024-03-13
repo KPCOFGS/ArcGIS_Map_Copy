@@ -20,8 +20,7 @@ Before you begin, ensure you have met the following requirements:
 \
 You can get the script by ```git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git```
 ## Usage
-Find the script you just cloned. Open the script and replace  ```SOURCE_ACCOUNT``` and ```SOURCE_PASSWORD``` to your source account and password\
-Do the same for the ```DESTINATION_ACCOUNT``` and ```DESTINATION_PASSWORD``` as well.
+Make sure you have credentials for both source and destination accounts
 \
 \
 To get the map ID, first log into your ArcGIS Online account. Find and click ```Content``` tab. Then click on the map you want to copy, and then click ```view details```.\
