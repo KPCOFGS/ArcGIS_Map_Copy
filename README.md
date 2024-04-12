@@ -15,18 +15,18 @@ Before you begin, ensure you have met the following requirements:
 
 ## Setup
 
-To setup, open the terminal and use the following the commands:
+**To setup without using git**
+* you can download the file as zip
+* Then unzip the file and go inside the folder
+* Finally, open terminal and do `pip install -r requirements.txt`
+
+**To setup with git, open the terminal and use the following the commands:**
 
 ```bash
 git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git
 cd ARC_GIS_Map_Copy
 pip install -r requirements.txt
 ```
-
-**Note: If you do not have git**
-* If you do not have git, you can download the file as zip
-* Then unzip the file and go inside the folder
-* Finally, open terminal and do `pip install -r requirements.txt`
 
 ## Usage
 [Instructions on how to use the script](usage/usage.md)
