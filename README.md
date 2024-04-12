@@ -22,6 +22,10 @@ git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git
 cd ARC_GIS_Map_Copy
 pip install -r requirements.txt
 ```
+* If you do not have git, you can download the file as zip
+* Then unzip the file and go inside the folder
+* Finally, open terminal and do `pip install -r requirements.txt`
+
 ## Usage
 [Instructions on how to use the script](usage/usage.md)
 
