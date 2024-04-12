@@ -19,6 +19,8 @@ Before you begin, ensure you have met the following requirements:
 * Then unzip the file and go inside the folder
 * Finally, open terminal and do `pip install -r requirements.txt`
 
+<br>
+
 **To setup with git, open the terminal and use the following the commands:**
 
 ```bash
