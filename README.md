@@ -24,7 +24,7 @@ cd ARC_GIS_Map_Copy
 pip install -r requirements.txt
 ```
 ## Usage
-
+[Instructions](usage/usage.md)
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE
