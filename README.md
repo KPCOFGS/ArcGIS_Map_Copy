@@ -7,7 +7,7 @@ Before you begin, ensure you have met the following requirements:
     * `python3` version ranging from 3.9.x to 3.11.x
     * `python3-pip`
     * `libkrb5-dev`
-    * You can install them using the following command: ```sudo apt-get install python3 python3-pip libkrb5-dev```
+    * You can install them using the following command: `sudo apt-get install python3 python3-pip libkrb5-dev`
 
 
 ## Setup
