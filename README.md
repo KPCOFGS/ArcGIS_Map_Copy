@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Setup
 
-To setup, use the following the commands:
+To setup, open the terminal and use the following the commands:
 
 ```bash
 git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git
