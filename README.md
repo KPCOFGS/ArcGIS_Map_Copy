@@ -32,3 +32,7 @@ To get the map ID, first log into your ArcGIS Online account. Find and click ```
 On the right hand side, under ```Details``` section, There is the ```ID```. If you do not see ```Details``` section, you may want to scroll down a bit.\
 ![alt text](https://github.com/KPCOFGS/ARC_GIS_Map_Copy/blob/main/Screenshot%20from%202024-03-12%2010-45-42.png?raw=true)
 
+## License
+This project is licensed under the GNU GENERAL PUBLIC LICENSE
+
+See the [LICENSE](LICENSE) file for details.
