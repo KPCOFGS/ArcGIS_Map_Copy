@@ -11,8 +11,8 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    sudo apt-get install python3 python3-pip libkrb5-dev
    ```
-
-
+\
+\
 ## Setup
 
 **To setup without using git**
