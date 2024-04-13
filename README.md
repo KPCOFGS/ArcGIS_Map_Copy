@@ -3,7 +3,7 @@
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 * If you are on **Windows 11** machine, make sure you have `python` version ranging from 3.9.x to 3.11.x installed.
-* If you are on **Linux 21.3** or similar distros, make sure the following packages are installed:
+* If you are on **Linux Mint 21.3** or similar distros, make sure the following packages are installed:
     * `python3` version ranging from 3.9.x to 3.11.x
     * `python3-pip`
     * `libkrb5-dev`
