@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 <br>
 
-**To setup with git, open the terminal and use the following the commands:**
+**To setup with git, open the terminal and perform the following the commands:**
 
 ```bash
 git clone https://github.com/KPCOFGS/ARC_GIS_Map_Copy.git
