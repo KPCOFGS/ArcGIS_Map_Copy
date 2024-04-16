@@ -36,6 +36,7 @@ pip install -r requirements.txt
 This project is licensed under the GNU GENERAL PUBLIC LICENSE
 
 See the [LICENSE](LICENSE) file for details.
+
 ## Thanks to our contributors
 
 <a href="https://github.com/KPCOFGS/ArcGIS_Map_Copy/graphs/contributors">
