@@ -32,6 +32,12 @@ pip install -r requirements.txt
 ## Usage
 [Instructions on how to use the script](usage/usage.md)
 
+## Acknowledgement
+
+We would like to thank the following projects for their great work:
+
+   * This work is built upon the [ArcGIS API for Python](https://developers.arcgis.com/python/)
+
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE
 
