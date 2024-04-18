@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 ## Setup
 
 **To setup without using git**
-* Download the source code as zip file
+* Download the source code as `.zip` file
 * Then unzip the file and go inside the folder
 * Finally, open the terminal and do `pip install -r requirements.txt`
 
