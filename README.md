@@ -39,7 +39,7 @@ We would like to thank the following projects for their great work:
    * This work is built upon the [ArcGIS API for Python](https://developers.arcgis.com/python/)
 
 ## License
-This project is licensed under the GNU GENERAL PUBLIC LICENSE
+This project is licensed under the Unlicensed license
 
 See the [LICENSE](LICENSE) file for details.
 
