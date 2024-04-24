@@ -42,9 +42,3 @@ We would like to thank the following projects for their great work:
 This project is licensed under the Unlicense
 
 See the [LICENSE](LICENSE) file for details.
-
-## Thanks to our contributors
-
-<a href="https://github.com/KPCOFGS/ArcGIS_Map_Copy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KPCOFGS/ArcGIS_Map_Copy" />
-</a>
