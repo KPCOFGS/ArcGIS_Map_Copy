@@ -2,7 +2,9 @@
 **Please note: This project has only been tested on Linux Mint 21.3 and Windows 11.**
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
-* If you are on **Windows 11** machine, make sure you have `python` version ranging from 3.9.x to 3.11.x installed.
+* If you are on **Windows 11** machine, make sure the following packages are installed:
+    * `python` version ranging from 3.9.x to 3.11.x
+    * [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed for `ujson` library
 * If you are on **Linux Mint 21.3** or similar distros, make sure the following packages are installed:
     * `python3` version ranging from 3.9.x to 3.11.x
     * `python3-pip`
