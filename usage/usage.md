@@ -1,4 +1,5 @@
 ## Usage
+
 Make sure you have credentials for both source and destination accounts
 
 
@@ -10,3 +11,5 @@ To get the map ID, first log into your ArcGIS Online account. Find and click ```
 
 On the right hand side, under ```Details``` section, There is the ```ID```. If you do not see ```Details``` section, you may want to scroll down a bit.\
 ![alt text](screenshot2.png?raw=true)
+
+**Note:** After successfully cloning one map to another. Make sure to go to ArcGIS Online > Content > My Organization, find the cloned map and edit it. Then, do nothing but save it using "Save As", This ensures the map is successfully cloned with the right ownership and permissions
