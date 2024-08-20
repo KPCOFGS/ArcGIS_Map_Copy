@@ -4,7 +4,16 @@ import getpass
 print("Please enter the source username")
 src_user = input("> ")
 print("Please enter the source password")
-src_pass = sfcsdc
+src_pass = getpass.getpass(prompt="> ")
+print()
+print("Please enter the destination username")
+dest_user = input("> ")
+print("Please enter the destination password")
+dest_pass = getpass.getpass(prompt="> ")
+print()
+print("Please enter the map ID")
+mapID = input("> ")
+
 # Source GIS, URL stays the same
 src_gis = GIS("https://www.arcgis.com", src_user, src_pass)
 
