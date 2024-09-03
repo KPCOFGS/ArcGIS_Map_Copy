@@ -34,6 +34,8 @@ pip install -r requirements.txt
 ## Usage
 [Instructions on how to use the script](usage/usage.md)
 
+**Note:** After successfully cloning one map to another. Make sure to go to ArcGIS Online > Content > My Organization, find the cloned map and edit it. Then, do nothing but save it using "Save As", This ensures the map is successfully cloned with the right ownership and permissions
+
 ## Acknowledgement
 
 We would like to thank the following projects for their great work:
